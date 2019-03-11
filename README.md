@@ -28,7 +28,7 @@ void loop() {
 }
 ```
 
-Two option for constructior:
+Two options for constructor:
 
 ### `Velocity(int trigger_pin, int echo_pin)`
 Constructor.
